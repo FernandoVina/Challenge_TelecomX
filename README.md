@@ -1,4 +1,5 @@
 #📄Informe final
+
 Dada la revisión de los datos de la base de datos, se efectuaron varias modificaciones, a fin de obtener un mejor análsis de la misma. Los cambios estan comentados en cada código.
 Dicho lo anterior podemos comentar lo siguiente:
 * De la base total el 25% app. son retirados.
